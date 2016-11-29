@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Australia</key>
+	<array>
+		<string>Sydney</string>
+		<string>Brisbane</string>
+		<string>Melbourne</string>
+	</array>
+	<key>Brazil</key>
+	<array>
+		<string>Rio de Janeiro</string>
+		<string>Sao Paulo</string>
+		<string>Salvador</string>
+		<string>Brasilia</string>
+	</array>
+	<key>China</key>
+	<array>
+		<string>Shanghai</string>
+		<string>Beijing</string>
+		<string>Xian</string>
+		<string>Wuhan</string>
+	</array>
+	<key>England</key>
+	<array>
+		<string>London</string>
+		<string>Liverpool</string>
+	</array>
+	<key>Germany</key>
+	<array>
+		<string>Munich</string>
+		<string>Berlin</string>
+		<string>Hamburg</string>
+		<string>Hanover</string>
+		<string>Frankfurt</string>
+	</array>
+	<key>India</key>
+	<array>
+		<string>Mumbai</string>
+		<string>Delhi</string>
+		<string>Bengalore</string>
+		<string>Calcutta</string>
+	</array>
+	<key>Italy</key>
+	<array>
+		<string>Rome</string>
+		<string>Napoli</string>
+		<string>Palermo</string>
+		<string>Bari</string>
+		<string>Milan</string>
+	</array>
+	<key>Mexico</key>
+	<array>
+		<string>Mexico City</string>
+		<string>Acapulco</string>
+		<string>Cancun</string>
+	</array>
+	<key>Spain</key>
+	<array>
+		<string>Madrid</string>
+		<string>Barcelona</string>
+		<string>Valencia</string>
+	</array>
+	<key>USA</key>
+	<array>
+		<string>Boston</string>
+		<string>San Francisco</string>
+		<string>New York</string>
+		<string>Chicago</string>
+		<string>Dallas</string>
+		<string>Los Angeles</string>
+		<string>Denver</string>
+		<string>Miami</string>
+		<string>Las Vegas</string>
+		<string>New Orleans</string>
+	</array>
+</dict>
+</plist>
